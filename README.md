@@ -7,4 +7,4 @@ To run this code below is the command
 
 to deploy this code use below command
 
-2. command2
+2. command_2
